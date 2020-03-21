@@ -1,0 +1,2 @@
+MLE与MAP https://zhuanlan.zhihu.com/p/37215276
+高斯分布与L2正则 http://qwone.com/~jason/writing/l2gaussian.pdf

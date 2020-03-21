@@ -1,0 +1,3 @@
+Set Cover Problem  https://en.wikipedia.org/wiki/Set_cover_problem
+LP Relaxation   http://www.cs.cmu.edu/~anupamg/adv-approx/lecture2.pdf
+Convergence Analaysis   https://www.cs.cmu.edu/~ggordon/10725-F12/slides/05-gd-revisited.pdf

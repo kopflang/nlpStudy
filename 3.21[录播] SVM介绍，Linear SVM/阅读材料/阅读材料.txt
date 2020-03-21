@@ -1,0 +1,3 @@
+SVM Intro   http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf
+CMU's SVM   https://www.cs.cmu.edu/~cga/ai-course/svm.pdf
+Nice Paper on SVM  https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/svmtutorial.pdf
