@@ -1,0 +1,2 @@
+倒排列表（Manning et al. 第一章） https://nlp.stanford.edu/IR-book/pdf/01bool.pdf
+余弦相似度介绍（技术博客） https://blog.csdn.net/ifnoelse/article/details/7766123
