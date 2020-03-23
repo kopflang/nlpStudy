@@ -1,8 +1,0 @@
-文本预处理（代码参考） https://www.kaggle.com/shashanksai/text-preprocessing-using-python
-分词中的最大匹配算法 https://blog.csdn.net/selinda001/article/details/79345072
-拼写纠错 https://web.stanford.edu/class/cs124/lec/spelling.pdf
-Edit Distance https://www.geeksforgeeks.org/edit-distance-dp-5/
-DP练习题 https://people.cs.clemson.edu/~bcdean/dp_practice/
-Porter Stemmer https://tartarus.org/martin/PorterStemmer/java.txt
-tf-idf介绍（技术博客）https://www.cnblogs.com/pinard/p/6693230.html
-Porter Stemming （网页版介绍）http://facweb.cs.depaul.edu/mobasher/classes/csc575/papers/porter-algorithm.html
