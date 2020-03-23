@@ -1,3 +1,0 @@
-QuAC:Question Answering in Context https://arxiv.org/pdf/1808.07036.pdf
-Coarse-to-Fine Question Answering for Long Documents https://homes.cs.washington.edu/~eunsol/papers/acl17eunsol.pdf
-QA workshop https://mrqa2018.github.io/
